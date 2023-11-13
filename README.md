@@ -1,4 +1,4 @@
-# power_bi_showcase
+# Power BI dashboard showcase
 👋 Hi, I’m @WeberZuz 
 👀 I’m interested in Data and IT business analysis and user friendly apps 
 🌱 I’m currently learning Power BI and SQL 
